@@ -1,0 +1,21 @@
+{
+  "fileName": "Text.json",
+  "list": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "age": 22
+    },
+    {
+      "id": 2,
+      "name": "Genocide",
+      "age": 30
+    },
+    {
+      "id": 5,
+      "name": "Yoda",
+      "age": 530
+    }
+  ],
+  "lastId": 5
+}
